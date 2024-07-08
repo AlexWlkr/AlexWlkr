@@ -1,5 +1,6 @@
 - Hello, I’m @AlexWlkr
 - I’m currently learning full stack web dev.
+- Getting more comfortable with Git everyday!
 - Located in Baltimore, MD.
 
 <!---
